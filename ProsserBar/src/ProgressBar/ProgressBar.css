@@ -1,0 +1,25 @@
+.progress-bar {
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .progress-bar-container {
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-top: 10px;
+  }
+  
+  .progress-bar-progress {
+    background-color: #4caf50;
+    height: 25px;
+  }
+  
+  .loading-text,
+  .complete-text {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
